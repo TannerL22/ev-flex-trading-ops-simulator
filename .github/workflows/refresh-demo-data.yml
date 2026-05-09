@@ -1,0 +1,79 @@
+name: Refresh synthetic demo data and deploy Pages
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "refresh-demo-data"
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python package
+        run: python -m pip install -e ".[dev]"
+
+      - name: Regenerate synthetic demo outputs
+        run: python scripts/run_full_demo_pipeline.py
+
+      - name: Public safety scan
+        run: python scripts/public_safety_scan.py
+
+      - name: Run Python tests
+        run: python -m pytest
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install frontend dependencies
+        working-directory: frontend
+        run: npm ci
+
+      - name: Build frontend
+        working-directory: frontend
+        run: npm run build
+
+      - name: Commit refreshed sample outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sample_inputs data/processed data/outputs frontend/public/data frontend/public/reports
+          if git diff --cached --quiet; then
+            echo "No refreshed sample output changes to commit."
+          else
+            git commit -m "Refresh synthetic demo data"
+            git push
+          fi
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: frontend/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

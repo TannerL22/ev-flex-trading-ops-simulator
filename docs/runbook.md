@@ -35,6 +35,10 @@ This runs:
 6. `scripts/generate_phase6_excel_report.py`
 7. `scripts/export_dashboard_json.py`
 
+The GitHub repository also includes a scheduled workflow,
+`.github/workflows/refresh-demo-data.yml`, which regenerates the synthetic/sample demo outputs
+weekly and can be run manually from the Actions tab. It does not call live or paid market APIs.
+
 ## Generate Excel Workbook
 
 ```bash

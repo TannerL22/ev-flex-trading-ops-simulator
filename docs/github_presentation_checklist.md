@@ -11,6 +11,8 @@
 - Run `cd frontend && npm install && npm run build`.
 - Run `cd frontend && npm run dev` and confirm the React dashboard opens locally.
 - Optionally run `streamlit run app/streamlit_app.py` to confirm the fallback dashboard opens locally.
+- Confirm `.github/workflows/refresh-demo-data.yml` is enabled if you want weekly synthetic/sample
+  demo-data refreshes and Pages redeployment.
 - Confirm the polished React dashboard UI shows the navy sidebar, top controls, KPI strip, baseline-vs-optimized hero chart, exceptions panel, outputs/downloads card, and visible public-demo disclaimer.
 - Confirm `LICENSE` is present and says MIT.
 - Confirm README is final and public-facing.

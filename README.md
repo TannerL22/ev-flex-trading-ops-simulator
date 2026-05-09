@@ -141,6 +141,10 @@ Regenerate the full demo pipeline:
 python scripts/run_full_demo_pipeline.py
 ```
 
+The GitHub repository includes an optional scheduled workflow that refreshes the synthetic/sample
+demo outputs weekly and redeploys the Pages dashboard. It does not use live operational data or paid
+market-data feeds.
+
 Generate the Excel workbook:
 
 ```bash
