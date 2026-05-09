@@ -42,7 +42,8 @@ import {
 } from "./format";
 import type { DashboardPayload, DataRecord, NavItem, ScenarioKey } from "./types";
 
-const dataUrl = "/data/dashboard.json";
+const assetPath = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\/+/, "")}`;
+const dataUrl = assetPath("data/dashboard.json");
 
 function first(records: DataRecord[]): DataRecord {
   return records.length > 0 ? records[0] : {};
@@ -200,7 +201,7 @@ function Overview({
             <ExceptionsPanel exceptions={payload.exceptions} scenario={scenario} />
           </Panel>
           <Panel title="Outputs & Downloads">
-            <DownloadPanel excelUrl={payload.metadata.excelReportUrl} />
+            <DownloadPanel excelUrl={assetPath(payload.metadata.excelReportUrl || "reports/ev_flex_daily_trading_report_sample.xlsx")} />
           </Panel>
         </div>
       </div>
@@ -367,7 +368,7 @@ function Downloads({ payload, scenario }: { payload: DashboardPayload; scenario:
   return (
     <div className="page-stack">
       <Panel title="Outputs & Downloads" subtitle="Generated demo artifacts">
-        <DownloadPanel excelUrl={payload.metadata.excelReportUrl} />
+        <DownloadPanel excelUrl={assetPath(payload.metadata.excelReportUrl || "reports/ev_flex_daily_trading_report_sample.xlsx")} />
       </Panel>
       <div className="two-grid">
         <Panel title="Daily Summary">

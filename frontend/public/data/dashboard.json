@@ -5,7 +5,7 @@
     "disclaimer": "Public demonstration using synthetic/sample data. Not a production trading, dispatch, or official settlement system.",
     "defaultScenario": "base_actuals",
     "excelReportPath": "data/outputs/ev_flex_daily_trading_report_sample.xlsx",
-    "excelReportUrl": "/reports/ev_flex_daily_trading_report_sample.xlsx",
+    "excelReportUrl": "reports/ev_flex_daily_trading_report_sample.xlsx",
     "generatedFrom": "scripts/export_dashboard_json.py"
   },
   "fleetRequirements": [

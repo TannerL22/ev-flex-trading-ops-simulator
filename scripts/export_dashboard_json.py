@@ -86,7 +86,7 @@ def build_dashboard_payload() -> dict[str, Any]:
             ),
             "defaultScenario": "base_actuals",
             "excelReportPath": "data/outputs/ev_flex_daily_trading_report_sample.xlsx",
-            "excelReportUrl": f"/reports/{EXCEL_REPORT_NAME}",
+            "excelReportUrl": f"reports/{EXCEL_REPORT_NAME}",
             "generatedFrom": "scripts/export_dashboard_json.py",
         },
         "fleetRequirements": _records(data.fleet_requirements),

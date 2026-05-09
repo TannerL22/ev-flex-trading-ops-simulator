@@ -352,9 +352,15 @@ export function ExceptionsPanel({
 }
 
 export function DownloadPanel({ excelUrl }: { excelUrl?: string }) {
+  const baseUrl = import.meta.env.BASE_URL;
+  const dashboardJsonUrl = `${baseUrl}data/dashboard.json`;
   return (
     <div className="download-list">
-      <a className="download-card" href={excelUrl || "/reports/ev_flex_daily_trading_report_sample.xlsx"} download>
+      <a
+        className="download-card"
+        href={excelUrl || `${baseUrl}reports/ev_flex_daily_trading_report_sample.xlsx`}
+        download
+      >
         <div>
           <FileSpreadsheet size={22} />
           <div>
@@ -364,7 +370,7 @@ export function DownloadPanel({ excelUrl }: { excelUrl?: string }) {
         </div>
         <Download size={18} />
       </a>
-      <a className="download-card" href="/data/dashboard.json" download>
+      <a className="download-card" href={dashboardJsonUrl} download>
         <div>
           <Database size={22} />
           <div>
