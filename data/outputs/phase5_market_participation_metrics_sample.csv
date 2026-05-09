@@ -1,0 +1,3 @@
+run_id,scenario,total_scheduled_mwh,total_actual_mwh,active_settlement_periods,average_scheduled_mw,peak_scheduled_mw,peak_actual_mw,mean_absolute_deviation_mwh,mean_absolute_percentage_deviation,material_deviation_interval_count,missing_actual_interval_count,intervals_with_negative_prices,intervals_with_positive_deviation,intervals_with_negative_deviation
+phase5_trading_reconciliation_sample,base_actuals,4.5652986,4.556965977683017,13,0.7023536307692307,0.75,0.7521509917569686,0.001420941049868948,0.00420289713406133,0,0,0,7,6
+phase5_trading_reconciliation_sample,high_deviation,4.5652986,2.7436067210774793,13,0.7023536307692307,0.75,0.7514390933354077,0.028702382481379088,0.12340815635712804,6,4,0,1,8

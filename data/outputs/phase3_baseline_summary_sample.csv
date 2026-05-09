@@ -1,0 +1,2 @@
+run_id,service_date,depot_id,total_required_mwh,total_delivered_mwh,total_baseline_cost_gbp,weighted_avg_price_gbp_per_mwh,peak_import_kw,vehicles_total,vehicles_fully_charged,vehicles_undercharged,vehicle_readiness_pct,missing_price_intervals,exception_count,notes
+phase3_baseline_sample,2026-05-09,DEPOT_A,4.5652986,4.5652986,373.029437792,81.70975668316635,882.6348,24,24,0,100.0,0,24,Dumb-charging baseline cost only; not full trading P&L.

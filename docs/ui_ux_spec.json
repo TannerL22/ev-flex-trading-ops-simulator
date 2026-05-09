@@ -1,0 +1,108 @@
+{
+  "product": {
+    "name": "EV Flex Trading Ops Simulator",
+    "description": "A polished EV flexibility trading analytics dashboard for simulating charging optimization, scheduled-vs-actual reconciliation, settlement-style exposure, and daily trading-support reporting.",
+    "dataDisclaimer": "Public demonstration using synthetic/sample data. Not a production trading, dispatch, or official settlement system.",
+    "primaryUseCase": "Hiring-manager demo and public GitHub portfolio dashboard",
+    "implementationTarget": "React/Vite local web app",
+    "defaultScenario": "base_actuals",
+    "secondaryScenario": "high_deviation"
+  },
+  "designSystem": {
+    "visualStyle": {
+      "theme": "light",
+      "density": "professional dashboard",
+      "mood": "clean, credible, commercial analytics, modern B2B SaaS",
+      "principles": [
+        "show KPIs before detail",
+        "charts before raw tables",
+        "exceptions always visible",
+        "public-safe disclaimers always visible",
+        "make the site-cap optimized schedule the hero case",
+        "avoid overclaiming real trading or official settlement"
+      ]
+    },
+    "colors": {
+      "page": "#F6F8FB",
+      "surface": "#FFFFFF",
+      "sidebarGradientTop": "#06284D",
+      "sidebarGradientBottom": "#031A36",
+      "primaryText": "#0F172A",
+      "secondaryText": "#475569",
+      "brandBlue": "#1769E0",
+      "teal": "#0EA5A4",
+      "green": "#22A447",
+      "amber": "#E49A00",
+      "purple": "#6D4FD3",
+      "optimizedLoad": "#4CAF50",
+      "baselineLoad": "#94A3B8",
+      "marketPrice": "#1769E0",
+      "scheduled": "#5CB85C",
+      "actual": "#2563EB",
+      "exposureBar": "#22C7C9"
+    },
+    "layout": {
+      "sidebarWidth": "244px",
+      "headerHeight": "72px",
+      "kpiCards": 8,
+      "overviewTopGrid": "5 / 3 / 4",
+      "overviewBottomGrid": "6 / 6"
+    }
+  },
+  "dashboard": {
+    "navigation": [
+      "Overview",
+      "Fleet & Market Inputs",
+      "Baseline vs Optimized",
+      "Scheduled vs Actual",
+      "Settlement Exposure",
+      "Exceptions",
+      "Data Tables / Downloads",
+      "Methodology & Limitations"
+    ],
+    "overview": {
+      "kpis": [
+        "Scheduled MWh",
+        "Actual MWh",
+        "Settlement-style Cost",
+        "Dumb Baseline Cost",
+        "Optimized Expected Cost",
+        "Realized Savings vs Baseline",
+        "Vehicle Readiness",
+        "Exceptions"
+      ],
+      "panels": [
+        "Baseline vs Optimized Charging Load",
+        "Scheduled vs Actual Charging",
+        "Market Inputs / Fleet Summary",
+        "Settlement Exposure",
+        "Exceptions",
+        "Outputs & Downloads"
+      ]
+    },
+    "interactions": {
+      "scenarioSelector": ["base_actuals", "high_deviation"],
+      "downloads": [
+        "data/outputs/ev_flex_daily_trading_report_sample.xlsx",
+        "frontend/public/data/dashboard.json"
+      ]
+    },
+    "wording": {
+      "required": [
+        "synthetic/sample data",
+        "settlement-style exposure",
+        "P&L-style summary",
+        "scheduled position",
+        "not a production trading, dispatch, or official settlement system"
+      ]
+    }
+  },
+  "implementationNotes": {
+    "approach": "The production-grade dashboard is implemented as a React/Vite app fed by a static JSON export from the Python analytics pipeline. The previous Streamlit dashboard remains available as a fallback and data-review tool.",
+    "limitations": [
+      "This file records the UI/UX source of truth in compact form for maintainability.",
+      "The React implementation approximates the supplied product mockup using CSS, Recharts, and lucide-react icons.",
+      "No new analytics are introduced by this UI pass."
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+run_id,timestamp,settlement_date,settlement_period,depot_id,total_charge_mwh,price_gbp_per_mwh,interval_cost_gbp,market,source,price_type,data_quality_flag
+phase3_baseline_sample,2026-05-09 18:30:00+01:00,2026-05-09,38,DEPOT_A,0.075,116.22,8.7165,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 19:00:00+01:00,2026-05-09,39,DEPOT_A,0.2,112.95,22.590000000000003,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 19:30:00+01:00,2026-05-09,40,DEPOT_A,0.3,103.56,31.067999999999998,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 20:00:00+01:00,2026-05-09,41,DEPOT_A,0.28895,85.31,24.6503245,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 20:30:00+01:00,2026-05-09,42,DEPOT_A,0.28327600000000003,76.28,21.60829328,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 21:00:00+01:00,2026-05-09,43,DEPOT_A,0.4189015,81.3,34.056691949999994,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 21:30:00+01:00,2026-05-09,44,DEPOT_A,0.3615349,102.25,36.966943525,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 22:00:00+01:00,2026-05-09,45,DEPOT_A,0.4413174,84.07,37.101553818,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 22:30:00+01:00,2026-05-09,46,DEPOT_A,0.425,82.97,35.26225,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 23:00:00+01:00,2026-05-09,47,DEPOT_A,0.4169131,91.67,38.218423877,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-09 23:30:00+01:00,2026-05-09,48,DEPOT_A,0.3375,93.22,31.461750000000002,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 00:00:00+01:00,2026-05-10,1,DEPOT_A,0.296493,53.67,15.912779310000001,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 00:30:00+01:00,2026-05-10,2,DEPOT_A,0.3125,46.99,14.684375000000001,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 01:00:00+01:00,2026-05-10,3,DEPOT_A,0.22858099999999998,46.29,10.58101449,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 01:30:00+01:00,2026-05-10,4,DEPOT_A,0.0875,53.35,4.668125,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 02:00:00+01:00,2026-05-10,5,DEPOT_A,0.0875,59.97,5.247375,synthetic_day_ahead,synthetic,synthetic,ok
+phase3_baseline_sample,2026-05-10 02:30:00+01:00,2026-05-10,6,DEPOT_A,0.004331700000000001,54.26,0.23503804200000003,synthetic_day_ahead,synthetic,synthetic,ok

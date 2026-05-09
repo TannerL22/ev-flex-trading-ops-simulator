@@ -1,0 +1,14 @@
+run_id,timestamp,settlement_date,settlement_period,depot_id,total_charge_kwh,total_charge_mwh,interval_kw,active_vehicle_count,charger_count_used,site_import_limit_kw,import_limit_utilization_pct,price_gbp_per_mwh,market,source,price_type,data_quality_flag,interval_cost_gbp
+phase4_optimization_sample_site_cap,2026-05-09 20:30:00+01:00,2026-05-09,42,DEPOT_A,65.29860000000015,0.06529860000000015,130.5972000000003,2,2,750.0,17.41296000000004,76.28,synthetic_day_ahead,synthetic,synthetic,ok,4.980977208000012
+phase4_optimization_sample_site_cap,2026-05-10 00:00:00+01:00,2026-05-10,1,DEPOT_A,375.0,0.375,750.0,9,7,750.0,100.0,48.28,synthetic_day_ahead,synthetic,synthetic,ok,18.105
+phase4_optimization_sample_site_cap,2026-05-10 00:30:00+01:00,2026-05-10,2,DEPOT_A,375.0,0.375,750.0,11,6,750.0,100.0,42.37,synthetic_day_ahead,synthetic,synthetic,ok,15.88875
+phase4_optimization_sample_site_cap,2026-05-10 01:00:00+01:00,2026-05-10,3,DEPOT_A,375.0,0.375,750.0,8,7,750.0,100.0,50.38,synthetic_day_ahead,synthetic,synthetic,ok,18.892500000000002
+phase4_optimization_sample_site_cap,2026-05-10 01:30:00+01:00,2026-05-10,4,DEPOT_A,375.0,0.375,750.0,8,5,750.0,100.0,50.62,synthetic_day_ahead,synthetic,synthetic,ok,18.982499999999998
+phase4_optimization_sample_site_cap,2026-05-10 02:00:00+01:00,2026-05-10,5,DEPOT_A,375.0,0.375,750.0,8,4,750.0,100.0,50.16,synthetic_day_ahead,synthetic,synthetic,ok,18.81
+phase4_optimization_sample_site_cap,2026-05-10 02:30:00+01:00,2026-05-10,6,DEPOT_A,375.0,0.375,750.0,8,5,750.0,100.0,44.43,synthetic_day_ahead,synthetic,synthetic,ok,16.66125
+phase4_optimization_sample_site_cap,2026-05-10 03:00:00+01:00,2026-05-10,7,DEPOT_A,375.0,0.375,750.0,9,7,750.0,100.0,41.98,synthetic_day_ahead,synthetic,synthetic,ok,15.7425
+phase4_optimization_sample_site_cap,2026-05-10 03:30:00+01:00,2026-05-10,8,DEPOT_A,375.0,0.375,750.0,7,5,750.0,100.0,43.84,synthetic_day_ahead,synthetic,synthetic,ok,16.44
+phase4_optimization_sample_site_cap,2026-05-10 04:00:00+01:00,2026-05-10,9,DEPOT_A,375.0,0.375,750.0,9,7,750.0,100.0,52.97,synthetic_day_ahead,synthetic,synthetic,ok,19.86375
+phase4_optimization_sample_site_cap,2026-05-10 04:30:00+01:00,2026-05-10,10,DEPOT_A,375.0,0.375,750.0,9,6,750.0,100.0,48.23,synthetic_day_ahead,synthetic,synthetic,ok,18.08625
+phase4_optimization_sample_site_cap,2026-05-10 05:00:00+01:00,2026-05-10,11,DEPOT_A,375.0,0.375,750.0,9,6,750.0,100.0,44.48,synthetic_day_ahead,synthetic,synthetic,ok,16.68
+phase4_optimization_sample_site_cap,2026-05-10 05:30:00+01:00,2026-05-10,12,DEPOT_A,375.0,0.375,750.0,9,7,750.0,100.0,74.41,synthetic_day_ahead,synthetic,synthetic,ok,27.903749999999995

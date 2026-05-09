@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+private_notes/
+
+# Generated data outputs
+data/raw/*
+data/processed/*
+data/outputs/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/outputs/.gitkeep
+!data/processed/fleet_requirements_sample.csv
+!data/processed/market_prices_*sample.csv
+!data/processed/market_prices_synthetic_*.csv
+!data/processed/baseline_*sample.csv
+!data/processed/optimized_*sample.csv
+!data/processed/actual_charging_*sample.csv
+!data/processed/scheduled_position_sample.csv
+!data/processed/reconciliation_*sample.csv
+!data/processed/settlement_style_exposure_*sample.csv
+!data/outputs/phase1_exceptions_sample.csv
+!data/outputs/phase2_market_exceptions_sample.csv
+!data/outputs/phase3_baseline_*sample.csv
+!data/outputs/phase4_optimization_*sample.csv
+!data/outputs/phase5_*sample.csv
+!data/outputs/ev_flex_daily_trading_report_sample.xlsx
+!data/outputs/phase6_report_manifest_sample.csv
+
+# Local app/runtime files
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example

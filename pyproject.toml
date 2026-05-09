@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ev-flex-trading-ops"
+version = "0.1.0"
+description = "Public EV flexibility trading analytics showcase with GB settlement-period processing."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2",
+  "pydantic>=2.7",
+  "scipy>=1.13",
+  "streamlit>=1.36",
+  "plotly>=5.22",
+  "xlsxwriter>=3.2",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.2",
+  "openpyxl>=3.1",
+  "ruff>=0.5",
+  "black>=24.4",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]

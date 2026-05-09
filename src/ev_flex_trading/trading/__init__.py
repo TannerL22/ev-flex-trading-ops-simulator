@@ -1,0 +1,1 @@
+"""Trading-support calculation modules."""

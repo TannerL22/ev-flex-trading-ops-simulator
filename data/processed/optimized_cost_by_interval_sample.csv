@@ -1,0 +1,8 @@
+run_id,timestamp,settlement_date,settlement_period,depot_id,total_charge_mwh,price_gbp_per_mwh,market,source,price_type,data_quality_flag,interval_cost_gbp
+phase4_optimization_sample,2026-05-10 00:00:00+01:00,2026-05-10,1,DEPOT_A,0.004751900000000035,48.28,synthetic_day_ahead,synthetic,synthetic,ok,0.22942173200000168
+phase4_optimization_sample,2026-05-10 00:30:00+01:00,2026-05-10,2,DEPOT_A,1.2409850999999998,42.37,synthetic_day_ahead,synthetic,synthetic,ok,52.580538686999994
+phase4_optimization_sample,2026-05-10 02:30:00+01:00,2026-05-10,6,DEPOT_A,0.7078222000000001,44.43,synthetic_day_ahead,synthetic,synthetic,ok,31.448540346
+phase4_optimization_sample,2026-05-10 03:00:00+01:00,2026-05-10,7,DEPOT_A,1.2625,41.98,synthetic_day_ahead,synthetic,synthetic,ok,52.99975
+phase4_optimization_sample,2026-05-10 03:30:00+01:00,2026-05-10,8,DEPOT_A,0.9877676000000001,43.84,synthetic_day_ahead,synthetic,synthetic,ok,43.30373158400001
+phase4_optimization_sample,2026-05-10 04:30:00+01:00,2026-05-10,10,DEPOT_A,0.18108550000000004,48.23,synthetic_day_ahead,synthetic,synthetic,ok,8.733753665000002
+phase4_optimization_sample,2026-05-10 05:00:00+01:00,2026-05-10,11,DEPOT_A,0.18038629999999992,44.48,synthetic_day_ahead,synthetic,synthetic,ok,8.023582623999996
