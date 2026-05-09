@@ -297,7 +297,10 @@ def _write_settlement_exposure(
     summary = pd.DataFrame(
         [
             ("Scheduled cost", inputs.settlement_base["scheduled_cost_gbp"].sum()),
-            ("Imbalance-style exposure", inputs.settlement_base["imbalance_exposure_gbp"].sum()),
+            (
+                "Deviation priced at imbalance",
+                inputs.settlement_base["imbalance_exposure_gbp"].sum(),
+            ),
             (
                 "Total settlement-style cost",
                 inputs.settlement_base["total_settlement_style_cost_gbp"].sum(),

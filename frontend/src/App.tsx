@@ -112,7 +112,12 @@ export default function App() {
     <div className="app-shell">
       <Sidebar active={active} onChange={setActive} />
       <div className="main-shell">
-        <TopBar scenario={scenario} onScenarioChange={setScenario} reportDate={reportDate(payload)} />
+        <TopBar
+          scenario={scenario}
+          onScenarioChange={setScenario}
+          reportDate={reportDate(payload)}
+          onHelpClick={() => setActive("methodology")}
+        />
         <main className="content">
           {active === "overview" ? (
             <Overview
@@ -129,7 +134,13 @@ export default function App() {
           {active === "baseline_optimized" ? <BaselineOptimized payload={payload} scenarioData={scenarioData} summary={summary} /> : null}
           {active === "scheduled_actual" ? <ScheduledActual scenario={scenario} reconciliation={reconciliation} /> : null}
           {active === "settlement_exposure" ? <SettlementExposure settlement={settlement} summary={summary} /> : null}
-          {active === "exceptions" ? <ExceptionsView exceptions={exceptions} exceptionSeverity={exceptionSeverity} /> : null}
+          {active === "exceptions" ? (
+            <ExceptionsView
+              exceptions={exceptions}
+              exceptionSeverity={exceptionSeverity}
+              scenario={scenario}
+            />
+          ) : null}
           {active === "downloads" ? <Downloads payload={payload} scenario={scenario} /> : null}
           {active === "methodology" ? <Methodology disclaimer={payload.metadata.disclaimer} /> : null}
         </main>
@@ -334,10 +345,12 @@ function SettlementExposure({ settlement, summary }: { settlement: DataRecord[];
 
 function ExceptionsView({
   exceptions,
-  exceptionSeverity
+  exceptionSeverity,
+  scenario
 }: {
   exceptions: DataRecord[];
   exceptionSeverity: DataRecord[];
+  scenario: ScenarioKey;
 }) {
   return (
     <div className="page-stack">
@@ -353,7 +366,7 @@ function ExceptionsView({
           )}
         </Panel>
         <Panel title="Review Queue">
-          <ExceptionsPanel exceptions={exceptions} scenario="high_deviation" />
+          <ExceptionsPanel exceptions={exceptions} scenario={scenario} />
         </Panel>
       </div>
       <Panel title="Exception Detail">

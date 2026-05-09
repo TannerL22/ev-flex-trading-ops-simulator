@@ -189,7 +189,7 @@ export function SettlementExposureChart({ data }: { data: DataRecord[] }) {
         <Bar
           yAxisId="right"
           dataKey="imbalance_exposure_gbp"
-          name="Exposure Cost"
+          name="Deviation Cost"
           fill="#22C7C9"
           opacity={0.72}
         />

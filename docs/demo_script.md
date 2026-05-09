@@ -28,15 +28,15 @@ The Python workflow generates a professional Excel report with daily summary, ba
 
 **Close**
 
-The project demonstrates EV flexibility analytics, Python automation, optimization, Excel reporting, Streamlit dashboarding, and the discipline needed for daily trading-support workflows.
+The project demonstrates EV flexibility analytics, Python automation, optimization, Excel reporting, React dashboarding, and the discipline needed for daily trading-support workflows.
 
 ## 30-Second Version
 
-This is a public EV flexibility trading analytics simulator. It generates synthetic fleet and market data, compares immediate charging against price-optimized charging, simulates actual metered deviations, reconciles scheduled versus actual energy, estimates settlement-style exposure, and produces both an Excel daily report and Streamlit dashboard. It uses synthetic/sample data only and is not a production trading or settlement system.
+This is a public EV flexibility trading analytics simulator. It generates synthetic fleet and market data, compares immediate charging against price-optimized charging, simulates actual metered deviations, reconciles scheduled versus actual energy, estimates settlement-style exposure, and produces both an Excel daily report and React dashboard. It uses synthetic/sample data only and is not a production trading or settlement system.
 
 ## Five-Minute Expanded Version
 
-1. Start on the Streamlit Overview tab and explain the headline KPIs.
+1. Start on the React dashboard Overview page and explain the headline KPIs.
 2. Open Fleet & Market Inputs to show vehicle requirements and half-hourly prices.
 3. Open Baseline vs Optimized to explain immediate charging versus linear optimization with a site import cap.
 4. Switch between `base_actuals` and `high_deviation` to show why reconciliation and exceptions matter.

@@ -2,7 +2,7 @@
 
 ## One-Sentence Summary
 
-I built a Python, Excel, and Streamlit project that simulates EV fleet charging optimization, scheduled-vs-actual reconciliation, and settlement-style trading support analytics using synthetic/sample data.
+I built a Python, Excel, and React dashboard project that simulates EV fleet charging optimization, scheduled-vs-actual reconciliation, and settlement-style trading support analytics using synthetic/sample data.
 
 ## Problem Statement
 
@@ -20,7 +20,7 @@ The project creates a reproducible daily workflow:
 - reconcile scheduled versus actual energy
 - estimate simplified settlement-style exposure
 - generate an Excel daily trading report
-- present the workflow in a Streamlit dashboard
+- present the workflow in a public React dashboard
 
 ## Key Capabilities
 
@@ -31,7 +31,7 @@ The project creates a reproducible daily workflow:
 - Structured exception management
 - P&L-style daily summary
 - Excel reporting automation with `xlsxwriter`
-- Streamlit dashboard with scenario selection
+- React dashboard with scenario selection
 - Automated tests and reproducible sample outputs
 
 ## Sample Results
@@ -42,8 +42,8 @@ Base actuals scenario:
 - Actual energy: 4.557 MWh
 - Dumb baseline cost: £374.20
 - Optimized expected cost: £237.09
-- Settlement-style cost: £237.41
-- Realized savings vs baseline: £136.78 / 36.6%
+- Settlement-style cost: £236.98
+- Realized savings vs baseline: £137.22 / 36.7%
 - Vehicle readiness: 100%
 
 High-deviation scenario:
@@ -54,7 +54,7 @@ High-deviation scenario:
 
 ## Technical Stack
 
-Python, pandas, numpy, scipy, pydantic, xlsxwriter, Streamlit, Plotly, pytest, ruff, and black.
+Python, pandas, numpy, scipy, pydantic, xlsxwriter, React, Vite, Recharts, Streamlit fallback, pytest, ruff, and black.
 
 ## Relevance to Energy Trading and Commercial Analytics
 
@@ -66,6 +66,7 @@ This is an independent public showcase project using synthetic/sample data. It i
 
 ## References
 
-- GitHub repository: `[add repository URL]`
-- Dashboard command: `streamlit run app/streamlit_app.py`
+- GitHub repository: `https://github.com/TannerL22/ev-flex-trading-ops-simulator`
+- Live dashboard: `https://tannerl22.github.io/ev-flex-trading-ops-simulator/`
+- Local React dashboard command: `cd frontend && npm run dev`
 - Excel report: `data/outputs/ev_flex_daily_trading_report_sample.xlsx`

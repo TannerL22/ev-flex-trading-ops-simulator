@@ -340,9 +340,10 @@ Purpose: simplified interval-level exposure calculation from scheduled-vs-actual
 | scheduled_price_gbp_per_mwh | float | GBP/MWh | Reference scheduled price. |
 | imbalance_price_gbp_per_mwh | float | GBP/MWh | Synthetic imbalance-style price. |
 | scheduled_cost_gbp | float | GBP | Scheduled energy cost. |
-| actual_energy_cost_gbp | float | GBP | Actual energy at scheduled price. |
-| imbalance_exposure_gbp | float | GBP | Simplified exposure from deviation. |
-| total_settlement_style_cost_gbp | float | GBP | Scheduled cost plus imbalance-style exposure. |
+| actual_energy_cost_gbp | float | GBP | Actual energy at scheduled price, included as an analytical reference. |
+| imbalance_spread_cost_gbp | float | GBP | Deviation volume multiplied by the difference between imbalance price and scheduled price. |
+| imbalance_exposure_gbp | float | GBP | Deviation volume priced at the simplified imbalance price. |
+| total_settlement_style_cost_gbp | float | GBP | Scheduled position cost plus deviation volume priced at the simplified imbalance price. |
 | pricing_method | string | n/a | Pricing method used. |
 | notes | string | n/a | Limitation note. |
 
@@ -363,9 +364,9 @@ Purpose: one-row daily trading-support summary. This is not real trading P&L.
 | absolute_deviation_mwh | float | MWh | Sum of absolute interval deviations. |
 | deviation_pct | float | percent | Total deviation divided by scheduled energy. |
 | scheduled_cost_gbp | float | GBP | Scheduled cost. |
-| actual_energy_cost_gbp | float | GBP | Actual energy at scheduled price. |
-| imbalance_exposure_gbp | float | GBP | Simplified imbalance-style exposure. |
-| total_settlement_style_cost_gbp | float | GBP | Total settlement-style cost. |
+| actual_energy_cost_gbp | float | GBP | Actual energy at scheduled price, included as an analytical reference. |
+| imbalance_exposure_gbp | float | GBP | Total deviation volume priced at the simplified imbalance price. |
+| total_settlement_style_cost_gbp | float | GBP | Scheduled position cost plus deviation volume priced at the simplified imbalance price. |
 | dumb_baseline_cost_gbp | float | GBP | Dumb baseline cost. |
 | optimized_expected_cost_gbp | float | GBP | Expected optimized cost. |
 | expected_savings_vs_baseline_gbp | float | GBP | Baseline cost minus expected optimized cost. |

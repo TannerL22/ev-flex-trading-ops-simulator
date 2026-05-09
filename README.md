@@ -54,6 +54,18 @@ Key outputs:
 - Optimized schedule: `data/processed/optimized_vehicle_schedule_sample.csv`
 - Reconciliation output: `data/processed/reconciliation_base_sample.csv`
 
+## Screenshots
+
+Screenshots are not committed yet. Capture instructions are available in
+`docs/screenshots/SCREENSHOT_INSTRUCTIONS.md`.
+
+Recommended screenshots before sharing the repo:
+
+- React dashboard Overview with base actuals selected.
+- Baseline vs Optimized page showing the site-cap optimized load profile.
+- Scheduled vs Actual page with the high-deviation scenario selected.
+- Excel workbook Daily Summary sheet.
+
 ## Key Sample Results
 
 Base actuals scenario:
@@ -64,8 +76,8 @@ Base actuals scenario:
 | Actual energy | 4.557 MWh |
 | Dumb baseline cost | £374.20 |
 | Optimized expected cost | £237.09 |
-| Settlement-style cost | £237.41 |
-| Realized savings vs baseline | £136.78 / 36.6% |
+| Settlement-style cost | £236.98 |
+| Realized savings vs baseline | £137.22 / 36.7% |
 | Vehicle readiness | 100% |
 | Material deviation intervals | 0 |
 | Missing meter intervals | 0 |
@@ -214,7 +226,7 @@ The smart charging optimizer uses a linear program to minimize energy cost acros
 
 The actuals simulator creates synthetic metered charging scenarios. The reconciliation layer compares the scheduled position with actual metered charging by settlement period, classifies deviations, and produces structured exceptions.
 
-Settlement-style exposure is calculated using a simplified imbalance-price spread. The P&L-style summary compares dumb baseline cost, optimized expected cost, and realized settlement-style cost after deviations.
+Settlement-style exposure is calculated as scheduled position cost plus actual-vs-scheduled deviation volume priced at a simplified synthetic imbalance price. The P&L-style summary compares dumb baseline cost, optimized expected cost, and realized settlement-style cost after deviations.
 
 ## Limitations
 

@@ -473,7 +473,8 @@ elif selected_page == "Settlement Exposure":
         cols = st.columns(4)
         cols[0].metric("Scheduled cost", format_gbp(settlement["scheduled_cost_gbp"].sum()))
         cols[1].metric(
-            "Imbalance-style exposure", format_gbp(settlement["imbalance_exposure_gbp"].sum())
+            "Deviation priced at imbalance",
+            format_gbp(settlement["imbalance_exposure_gbp"].sum()),
         )
         cols[2].metric(
             "Settlement-style cost",

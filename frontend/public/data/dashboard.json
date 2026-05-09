@@ -501,7 +501,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -515,7 +515,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -529,7 +529,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -543,7 +543,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -557,7 +557,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -571,7 +571,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -585,7 +585,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -599,7 +599,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -613,7 +613,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -627,7 +627,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -641,7 +641,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -655,7 +655,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -669,7 +669,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -683,7 +683,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -697,7 +697,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -711,7 +711,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -725,7 +725,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -739,7 +739,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -753,7 +753,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -767,7 +767,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -781,7 +781,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -795,7 +795,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -809,7 +809,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -823,7 +823,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -837,7 +837,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -851,7 +851,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -865,7 +865,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -879,7 +879,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -893,7 +893,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -907,7 +907,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -921,7 +921,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -935,7 +935,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -949,7 +949,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -963,7 +963,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -977,7 +977,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -991,7 +991,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1005,7 +1005,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1019,7 +1019,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1033,7 +1033,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1047,7 +1047,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1061,7 +1061,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1075,7 +1075,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1089,7 +1089,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1103,7 +1103,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1117,7 +1117,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1131,7 +1131,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1145,7 +1145,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1159,7 +1159,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-05-09T20:32:50.212572+00:00",
+      "ingestion_timestamp": "2026-05-09T20:52:22.782289+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     }
@@ -9663,7 +9663,7 @@
   "exceptions": [
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:54.902658+00:00",
+      "timestamp": "2026-05-09 20:52:30.040438+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-001",
@@ -9672,7 +9672,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:54.930146+00:00",
+      "timestamp": "2026-05-09 20:52:30.075068+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-002",
@@ -9681,7 +9681,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:54.952639+00:00",
+      "timestamp": "2026-05-09 20:52:30.100820+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-003",
@@ -9690,7 +9690,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:54.983582+00:00",
+      "timestamp": "2026-05-09 20:52:30.137821+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-004",
@@ -9699,7 +9699,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.010013+00:00",
+      "timestamp": "2026-05-09 20:52:30.168855+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-005",
@@ -9708,7 +9708,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.033994+00:00",
+      "timestamp": "2026-05-09 20:52:30.197483+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-006",
@@ -9717,7 +9717,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.051632+00:00",
+      "timestamp": "2026-05-09 20:52:30.218434+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-007",
@@ -9726,7 +9726,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.076897+00:00",
+      "timestamp": "2026-05-09 20:52:30.248229+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-008",
@@ -9735,7 +9735,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.094883+00:00",
+      "timestamp": "2026-05-09 20:52:30.268641+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-009",
@@ -9744,7 +9744,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.114945+00:00",
+      "timestamp": "2026-05-09 20:52:30.293580+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-010",
@@ -9753,7 +9753,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.137884+00:00",
+      "timestamp": "2026-05-09 20:52:30.319058+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-011",
@@ -9762,7 +9762,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.162872+00:00",
+      "timestamp": "2026-05-09 20:52:30.349265+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-012",
@@ -9771,7 +9771,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.182069+00:00",
+      "timestamp": "2026-05-09 20:52:30.372985+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-013",
@@ -9780,7 +9780,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.206143+00:00",
+      "timestamp": "2026-05-09 20:52:30.411307+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-014",
@@ -9789,7 +9789,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.223776+00:00",
+      "timestamp": "2026-05-09 20:52:30.432030+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-015",
@@ -9798,7 +9798,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.241574+00:00",
+      "timestamp": "2026-05-09 20:52:30.451096+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-016",
@@ -9807,7 +9807,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.257094+00:00",
+      "timestamp": "2026-05-09 20:52:30.468748+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-017",
@@ -9816,7 +9816,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.274926+00:00",
+      "timestamp": "2026-05-09 20:52:30.502835+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-018",
@@ -9825,7 +9825,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.298487+00:00",
+      "timestamp": "2026-05-09 20:52:30.530567+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-019",
@@ -9834,7 +9834,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.322554+00:00",
+      "timestamp": "2026-05-09 20:52:30.557912+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-020",
@@ -9843,7 +9843,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.339391+00:00",
+      "timestamp": "2026-05-09 20:52:30.577139+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-021",
@@ -9852,7 +9852,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.352197+00:00",
+      "timestamp": "2026-05-09 20:52:30.595534+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-022",
@@ -9861,7 +9861,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.365220+00:00",
+      "timestamp": "2026-05-09 20:52:30.612622+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-023",
@@ -9870,7 +9870,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.403804+00:00",
+      "timestamp": "2026-05-09 20:52:30.633079+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-024",
@@ -9879,7 +9879,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.453307+00:00",
+      "timestamp": "2026-05-09 20:52:30.700001+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-001",
@@ -9888,7 +9888,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.479544+00:00",
+      "timestamp": "2026-05-09 20:52:30.732008+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-002",
@@ -9897,7 +9897,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.501055+00:00",
+      "timestamp": "2026-05-09 20:52:30.757702+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-003",
@@ -9906,7 +9906,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.532169+00:00",
+      "timestamp": "2026-05-09 20:52:30.793743+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-004",
@@ -9915,7 +9915,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.558667+00:00",
+      "timestamp": "2026-05-09 20:52:30.823934+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-005",
@@ -9924,7 +9924,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.582391+00:00",
+      "timestamp": "2026-05-09 20:52:30.849992+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-006",
@@ -9933,7 +9933,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.600220+00:00",
+      "timestamp": "2026-05-09 20:52:30.870246+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-007",
@@ -9942,7 +9942,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.625581+00:00",
+      "timestamp": "2026-05-09 20:52:30.901274+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-008",
@@ -9951,7 +9951,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.643438+00:00",
+      "timestamp": "2026-05-09 20:52:30.923791+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-009",
@@ -9960,7 +9960,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.663707+00:00",
+      "timestamp": "2026-05-09 20:52:30.946577+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-010",
@@ -9969,7 +9969,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.687055+00:00",
+      "timestamp": "2026-05-09 20:52:30.973914+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-011",
@@ -9978,7 +9978,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.712072+00:00",
+      "timestamp": "2026-05-09 20:52:31.001304+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-012",
@@ -9987,7 +9987,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.731415+00:00",
+      "timestamp": "2026-05-09 20:52:31.024344+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-013",
@@ -9996,7 +9996,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.755594+00:00",
+      "timestamp": "2026-05-09 20:52:31.049802+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-014",
@@ -10005,7 +10005,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.773173+00:00",
+      "timestamp": "2026-05-09 20:52:31.069780+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-015",
@@ -10014,7 +10014,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.791205+00:00",
+      "timestamp": "2026-05-09 20:52:31.091357+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-016",
@@ -10023,7 +10023,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.807002+00:00",
+      "timestamp": "2026-05-09 20:52:31.108942+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-017",
@@ -10032,7 +10032,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.824901+00:00",
+      "timestamp": "2026-05-09 20:52:31.129038+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-018",
@@ -10041,7 +10041,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.848713+00:00",
+      "timestamp": "2026-05-09 20:52:31.156960+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-019",
@@ -10050,7 +10050,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.872504+00:00",
+      "timestamp": "2026-05-09 20:52:31.183276+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-020",
@@ -10059,7 +10059,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.889299+00:00",
+      "timestamp": "2026-05-09 20:52:31.206799+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-021",
@@ -10068,7 +10068,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.902165+00:00",
+      "timestamp": "2026-05-09 20:52:31.221371+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-022",
@@ -10077,7 +10077,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.915182+00:00",
+      "timestamp": "2026-05-09 20:52:31.235870+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-023",
@@ -10086,7 +10086,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:55.932609+00:00",
+      "timestamp": "2026-05-09 20:52:31.257589+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-024",
@@ -10095,7 +10095,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP42",
@@ -10104,7 +10104,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP1",
@@ -10113,7 +10113,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP2",
@@ -10122,7 +10122,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP3",
@@ -10131,7 +10131,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP5",
@@ -10140,7 +10140,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP6",
@@ -10149,7 +10149,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP7",
@@ -10158,7 +10158,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP8",
@@ -10167,7 +10167,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP9",
@@ -10176,7 +10176,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-05-09 20:32:56.054869+00:00",
+      "timestamp": "2026-05-09 20:52:31.417715+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP13",
@@ -10271,14 +10271,14 @@
         "deviation_pct": -0.0018252086111044,
         "scheduled_cost_gbp": 237.086977208,
         "actual_energy_cost_gbp": 236.65358661785035,
-        "imbalance_exposure_gbp": 0.327781561381015,
-        "total_settlement_style_cost_gbp": 237.41475876938105,
+        "imbalance_exposure_gbp": -0.1056090287686187,
+        "total_settlement_style_cost_gbp": 236.98136817923145,
         "dumb_baseline_cost_gbp": 374.199401689,
         "optimized_expected_cost_gbp": 237.086977208,
         "expected_savings_vs_baseline_gbp": 137.112424481,
-        "realized_savings_vs_baseline_gbp": 136.784642919619,
-        "realized_savings_vs_baseline_pct": 36.55394484924959,
-        "delta_vs_optimized_plan_gbp": 0.3277815613810162,
+        "realized_savings_vs_baseline_gbp": 137.2180335097686,
+        "realized_savings_vs_baseline_pct": 36.66976293666326,
+        "delta_vs_optimized_plan_gbp": -0.1056090287685833,
         "vehicle_readiness_pct": 100.0,
         "material_deviation_intervals": 0,
         "missing_meter_intervals": 0,
@@ -10423,8 +10423,9 @@
           "imbalance_price_gbp_per_mwh": 61.28,
           "scheduled_cost_gbp": 8.794977208000011,
           "actual_energy_cost_gbp": 8.734177387375894,
-          "imbalance_exposure_gbp": 0.011955916483505,
-          "total_settlement_style_cost_gbp": 8.806933124483516,
+          "imbalance_spread_cost_gbp": 0.011955916483505,
+          "imbalance_exposure_gbp": -0.0488439041406124,
+          "total_settlement_style_cost_gbp": 8.746133303859398,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10442,8 +10443,9 @@
           "imbalance_price_gbp_per_mwh": 82.12,
           "scheduled_cost_gbp": 21.42,
           "actual_energy_cost_gbp": 21.445151447364804,
-          "imbalance_exposure_gbp": 0.0110081614866974,
-          "total_settlement_style_cost_gbp": 21.43100816148669,
+          "imbalance_spread_cost_gbp": 0.0110081614866974,
+          "imbalance_exposure_gbp": 0.0361596088515038,
+          "total_settlement_style_cost_gbp": 21.4561596088515,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10461,8 +10463,9 @@
           "imbalance_price_gbp_per_mwh": 28.03,
           "scheduled_cost_gbp": 16.13625,
           "actual_energy_cost_gbp": 16.08557930073808,
-          "imbalance_exposure_gbp": 0.0176635019504725,
-          "total_settlement_style_cost_gbp": 16.153913501950473,
+          "imbalance_spread_cost_gbp": 0.0176635019504725,
+          "imbalance_exposure_gbp": -0.0330071973114497,
+          "total_settlement_style_cost_gbp": 16.103242802688552,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10480,8 +10483,9 @@
           "imbalance_price_gbp_per_mwh": 33.25,
           "scheduled_cost_gbp": 18.09375,
           "actual_energy_cost_gbp": 17.7859168371089,
-          "imbalance_exposure_gbp": 0.0956994288780618,
-          "total_settlement_style_cost_gbp": 18.189449428878063,
+          "imbalance_spread_cost_gbp": 0.0956994288780618,
+          "imbalance_exposure_gbp": -0.2121337340130371,
+          "total_settlement_style_cost_gbp": 17.881616265986963,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10499,8 +10503,9 @@
           "imbalance_price_gbp_per_mwh": 41.48,
           "scheduled_cost_gbp": 21.18,
           "actual_energy_cost_gbp": 21.068056194795854,
-          "imbalance_exposure_gbp": 0.0297301182376436,
-          "total_settlement_style_cost_gbp": 21.209730118237644,
+          "imbalance_spread_cost_gbp": 0.0297301182376436,
+          "imbalance_exposure_gbp": -0.0822136869664971,
+          "total_settlement_style_cost_gbp": 21.097786313033502,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10518,8 +10523,9 @@
           "imbalance_price_gbp_per_mwh": 53.33,
           "scheduled_cost_gbp": 25.62375,
           "actual_energy_cost_gbp": 25.471906649673024,
-          "imbalance_exposure_gbp": 0.0333330931494899,
-          "total_settlement_style_cost_gbp": 25.65708309314949,
+          "imbalance_spread_cost_gbp": 0.0333330931494899,
+          "imbalance_exposure_gbp": -0.1185102571774864,
+          "total_settlement_style_cost_gbp": 25.505239742822518,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10537,8 +10543,9 @@
           "imbalance_price_gbp_per_mwh": 63.37,
           "scheduled_cost_gbp": 14.388749999999998,
           "actual_energy_cost_gbp": 14.405050041760076,
-          "imbalance_exposure_gbp": 0.0106203034662993,
-          "total_settlement_style_cost_gbp": 14.399370303466297,
+          "imbalance_spread_cost_gbp": 0.0106203034662993,
+          "imbalance_exposure_gbp": 0.0269203452263756,
+          "total_settlement_style_cost_gbp": 14.415670345226374,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10556,8 +10563,9 @@
           "imbalance_price_gbp_per_mwh": 65.5,
           "scheduled_cost_gbp": 15.1875,
           "actual_energy_cost_gbp": 15.216960740133397,
-          "imbalance_exposure_gbp": 0.0181856420576512,
-          "total_settlement_style_cost_gbp": 15.20568564205765,
+          "imbalance_spread_cost_gbp": 0.0181856420576512,
+          "imbalance_exposure_gbp": 0.0476463821910461,
+          "total_settlement_style_cost_gbp": 15.235146382191044,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10575,8 +10583,9 @@
           "imbalance_price_gbp_per_mwh": 79.12,
           "scheduled_cost_gbp": 20.295,
           "actual_energy_cost_gbp": 20.3076810479756,
-          "imbalance_exposure_gbp": 0.0058578381261997,
-          "total_settlement_style_cost_gbp": 20.3008578381262,
+          "imbalance_spread_cost_gbp": 0.0058578381261997,
+          "imbalance_exposure_gbp": 0.018538886101797,
+          "total_settlement_style_cost_gbp": 20.3135388861018,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10594,8 +10603,9 @@
           "imbalance_price_gbp_per_mwh": 64.64,
           "scheduled_cost_gbp": 14.865,
           "actual_energy_cost_gbp": 14.893827310013066,
-          "imbalance_exposure_gbp": 0.0181806950132853,
-          "total_settlement_style_cost_gbp": 14.883180695013284,
+          "imbalance_spread_cost_gbp": 0.0181806950132853,
+          "imbalance_exposure_gbp": 0.0470080050263507,
+          "total_settlement_style_cost_gbp": 14.912008005026353,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10613,8 +10623,9 @@
           "imbalance_price_gbp_per_mwh": 24.6,
           "scheduled_cost_gbp": 14.85,
           "actual_energy_cost_gbp": 14.8165924868533,
-          "imbalance_exposure_gbp": 0.0126543610404167,
-          "total_settlement_style_cost_gbp": 14.862654361040418,
+          "imbalance_spread_cost_gbp": 0.0126543610404167,
+          "imbalance_exposure_gbp": -0.0207531521062834,
+          "total_settlement_style_cost_gbp": 14.829246847893716,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10632,8 +10643,9 @@
           "imbalance_price_gbp_per_mwh": 83.46000000000001,
           "scheduled_cost_gbp": 21.9225,
           "actual_energy_cost_gbp": 21.985373489056197,
-          "imbalance_exposure_gbp": 0.026887396962108,
-          "total_settlement_style_cost_gbp": 21.94938739696211,
+          "imbalance_spread_cost_gbp": 0.026887396962108,
+          "imbalance_exposure_gbp": 0.0897608860183015,
+          "total_settlement_style_cost_gbp": 22.0122608860183,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10651,8 +10663,9 @@
           "imbalance_price_gbp_per_mwh": 99.86,
           "scheduled_cost_gbp": 24.3295,
           "actual_energy_cost_gbp": 24.437313685002188,
-          "imbalance_exposure_gbp": 0.0360051045291839,
-          "total_settlement_style_cost_gbp": 24.365505104529184,
+          "imbalance_spread_cost_gbp": 0.0360051045291839,
+          "imbalance_exposure_gbp": 0.1438187895313725,
+          "total_settlement_style_cost_gbp": 24.473318789531373,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         }
@@ -10668,7 +10681,7 @@
         },
         {
           "cost_type": "Settlement-style actual cost",
-          "cost_gbp": 237.41475876938105
+          "cost_gbp": 236.98136817923145
         }
       ]
     },
@@ -10686,14 +10699,14 @@
         "deviation_pct": -0.3990301705396709,
         "scheduled_cost_gbp": 237.086977208,
         "actual_energy_cost_gbp": 144.29789152812654,
-        "imbalance_exposure_gbp": 5.604160050545961,
-        "total_settlement_style_cost_gbp": 242.69113725854595,
+        "imbalance_exposure_gbp": -15.185425629327495,
+        "total_settlement_style_cost_gbp": 221.90155157867247,
         "dumb_baseline_cost_gbp": 374.199401689,
         "optimized_expected_cost_gbp": 237.086977208,
         "expected_savings_vs_baseline_gbp": 137.112424481,
-        "realized_savings_vs_baseline_gbp": 131.50826443045406,
-        "realized_savings_vs_baseline_pct": 35.14390024058659,
-        "delta_vs_optimized_plan_gbp": 5.604160050545943,
+        "realized_savings_vs_baseline_gbp": 152.2978501103275,
+        "realized_savings_vs_baseline_pct": 40.69965088744407,
+        "delta_vs_optimized_plan_gbp": -15.185425629327485,
         "vehicle_readiness_pct": 100.0,
         "material_deviation_intervals": 6,
         "missing_meter_intervals": 4,
@@ -10838,8 +10851,9 @@
           "imbalance_price_gbp_per_mwh": 61.28,
           "scheduled_cost_gbp": 8.794977208000011,
           "actual_energy_cost_gbp": 7.326167869139277,
-          "imbalance_exposure_gbp": 0.2888324604471818,
-          "total_settlement_style_cost_gbp": 9.083809668447191,
+          "imbalance_spread_cost_gbp": 0.2888324604471818,
+          "imbalance_exposure_gbp": -1.1799768784135536,
+          "total_settlement_style_cost_gbp": 7.615000329586458,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10857,8 +10871,9 @@
           "imbalance_price_gbp_per_mwh": 42.12,
           "scheduled_cost_gbp": 21.42,
           "actual_energy_cost_gbp": 16.42387301375425,
-          "imbalance_exposure_gbp": 1.312008137144367,
-          "total_settlement_style_cost_gbp": 22.73200813714437,
+          "imbalance_spread_cost_gbp": 1.312008137144367,
+          "imbalance_exposure_gbp": -3.6841188491013823,
+          "total_settlement_style_cost_gbp": 17.735881150898617,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10876,8 +10891,9 @@
           "imbalance_price_gbp_per_mwh": 28.03,
           "scheduled_cost_gbp": 16.13625,
           "actual_energy_cost_gbp": 13.834494858667004,
-          "imbalance_exposure_gbp": 0.8023780413663711,
-          "total_settlement_style_cost_gbp": 16.93862804136637,
+          "imbalance_spread_cost_gbp": 0.8023780413663711,
+          "imbalance_exposure_gbp": -1.4993770999666256,
+          "total_settlement_style_cost_gbp": 14.636872900033374,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10895,6 +10911,7 @@
           "imbalance_price_gbp_per_mwh": 48.25,
           "scheduled_cost_gbp": 18.09375,
           "actual_energy_cost_gbp": null,
+          "imbalance_spread_cost_gbp": 0.0,
           "imbalance_exposure_gbp": 0.0,
           "total_settlement_style_cost_gbp": 18.09375,
           "pricing_method": "synthetic_imbalance_spread",
@@ -10914,8 +10931,9 @@
           "imbalance_price_gbp_per_mwh": 81.47999999999999,
           "scheduled_cost_gbp": 21.18,
           "actual_energy_cost_gbp": 21.220639995791917,
-          "imbalance_exposure_gbp": 0.0179886666925962,
-          "total_settlement_style_cost_gbp": 21.197988666692595,
+          "imbalance_spread_cost_gbp": 0.0179886666925962,
+          "imbalance_exposure_gbp": 0.0586286624845098,
+          "total_settlement_style_cost_gbp": 21.23862866248451,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10933,8 +10951,9 @@
           "imbalance_price_gbp_per_mwh": 53.33,
           "scheduled_cost_gbp": 25.62375,
           "actual_energy_cost_gbp": 18.7286126315323,
-          "imbalance_exposure_gbp": 1.513640575545375,
-          "total_settlement_style_cost_gbp": 27.13739057554537,
+          "imbalance_spread_cost_gbp": 1.513640575545375,
+          "imbalance_exposure_gbp": -5.381496792922323,
+          "total_settlement_style_cost_gbp": 20.24225320707768,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -10952,6 +10971,7 @@
           "imbalance_price_gbp_per_mwh": 38.37,
           "scheduled_cost_gbp": 14.388749999999998,
           "actual_energy_cost_gbp": null,
+          "imbalance_spread_cost_gbp": 0.0,
           "imbalance_exposure_gbp": 0.0,
           "total_settlement_style_cost_gbp": 14.388749999999998,
           "pricing_method": "synthetic_imbalance_spread",
@@ -10971,6 +10991,7 @@
           "imbalance_price_gbp_per_mwh": 40.5,
           "scheduled_cost_gbp": 15.1875,
           "actual_energy_cost_gbp": null,
+          "imbalance_spread_cost_gbp": 0.0,
           "imbalance_exposure_gbp": 0.0,
           "total_settlement_style_cost_gbp": 15.1875,
           "pricing_method": "synthetic_imbalance_spread",
@@ -10990,8 +11011,9 @@
           "imbalance_price_gbp_per_mwh": 39.12,
           "scheduled_cost_gbp": 20.295,
           "actual_energy_cost_gbp": 17.807025559489563,
-          "imbalance_exposure_gbp": 0.6895716298532245,
-          "total_settlement_style_cost_gbp": 20.98457162985322,
+          "imbalance_spread_cost_gbp": 0.6895716298532245,
+          "imbalance_exposure_gbp": -1.7984028106572094,
+          "total_settlement_style_cost_gbp": 18.49659718934279,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -11009,8 +11031,9 @@
           "imbalance_price_gbp_per_mwh": 24.64,
           "scheduled_cost_gbp": 14.865,
           "actual_energy_cost_gbp": 13.302649508007605,
-          "imbalance_exposure_gbp": 0.5912022547902616,
-          "total_settlement_style_cost_gbp": 15.45620225479026,
+          "imbalance_spread_cost_gbp": 0.5912022547902616,
+          "imbalance_exposure_gbp": -0.9711482372021364,
+          "total_settlement_style_cost_gbp": 13.893851762797864,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -11028,8 +11051,9 @@
           "imbalance_price_gbp_per_mwh": 24.6,
           "scheduled_cost_gbp": 14.85,
           "actual_energy_cost_gbp": 14.018124311754638,
-          "imbalance_exposure_gbp": 0.3151044273656675,
-          "total_settlement_style_cost_gbp": 15.16510442736567,
+          "imbalance_spread_cost_gbp": 0.3151044273656675,
+          "imbalance_exposure_gbp": -0.5167712608796947,
+          "total_settlement_style_cost_gbp": 14.333228739120306,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -11047,8 +11071,9 @@
           "imbalance_price_gbp_per_mwh": 43.46,
           "scheduled_cost_gbp": 21.9225,
           "actual_energy_cost_gbp": 21.636303779990005,
-          "imbalance_exposure_gbp": 0.0734338573409154,
-          "total_settlement_style_cost_gbp": 21.99593385734092,
+          "imbalance_spread_cost_gbp": 0.0734338573409154,
+          "imbalance_exposure_gbp": -0.212762362669079,
+          "total_settlement_style_cost_gbp": 21.70973763733092,
           "pricing_method": "synthetic_imbalance_spread",
           "notes": "Simplified settlement-style exposure; not official settlement."
         },
@@ -11066,6 +11091,7 @@
           "imbalance_price_gbp_per_mwh": 74.86,
           "scheduled_cost_gbp": 24.3295,
           "actual_energy_cost_gbp": null,
+          "imbalance_spread_cost_gbp": 0.0,
           "imbalance_exposure_gbp": 0.0,
           "total_settlement_style_cost_gbp": 24.3295,
           "pricing_method": "synthetic_imbalance_spread",
@@ -11083,7 +11109,7 @@
         },
         {
           "cost_type": "Settlement-style actual cost",
-          "cost_gbp": 242.69113725854595
+          "cost_gbp": 221.90155157867247
         }
       ]
     }

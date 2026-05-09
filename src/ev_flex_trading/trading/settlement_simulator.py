@@ -18,7 +18,17 @@ def simulate_settlement_style_exposure(
     negative_deviation_spread_gbp_per_mwh: float = -15.0,
     pricing_method: str = "synthetic_imbalance_spread",
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """Calculate simplified settlement-style exposure from deviations."""
+    """Calculate simplified settlement-style exposure from scheduled and actual energy.
+
+    The model is intentionally simple and public-demo oriented:
+
+    - scheduled MWh are costed at the scheduled/day-ahead price
+    - actual-vs-scheduled deviations are costed at a synthetic imbalance price
+    - total settlement-style cost is scheduled cost plus deviation cost
+
+    This is not official BSC settlement and does not model contractual trading, cashout,
+    metering corrections, or bid/offer mechanics.
+    """
 
     exceptions = []
     now = datetime.now(timezone.utc)
@@ -57,12 +67,13 @@ def simulate_settlement_style_exposure(
     merged.loc[negative, "imbalance_price_gbp_per_mwh"] = (
         merged.loc[negative, "scheduled_price_gbp_per_mwh"] + negative_deviation_spread_gbp_per_mwh
     )
-    deviation_for_exposure = merged["deviation_mwh"].fillna(0.0)
+    deviation_for_pricing = merged["deviation_mwh"].fillna(0.0)
     merged["scheduled_cost_gbp"] = merged["scheduled_mwh"] * merged["scheduled_price_gbp_per_mwh"]
     merged["actual_energy_cost_gbp"] = merged["actual_mwh"] * merged["scheduled_price_gbp_per_mwh"]
-    merged["imbalance_exposure_gbp"] = deviation_for_exposure * (
+    merged["imbalance_spread_cost_gbp"] = deviation_for_pricing * (
         merged["imbalance_price_gbp_per_mwh"] - merged["scheduled_price_gbp_per_mwh"]
     )
+    merged["imbalance_exposure_gbp"] = deviation_for_pricing * merged["imbalance_price_gbp_per_mwh"]
     merged["total_settlement_style_cost_gbp"] = (
         merged["scheduled_cost_gbp"] + merged["imbalance_exposure_gbp"]
     )
@@ -86,6 +97,7 @@ def simulate_settlement_style_exposure(
                 "imbalance_price_gbp_per_mwh",
                 "scheduled_cost_gbp",
                 "actual_energy_cost_gbp",
+                "imbalance_spread_cost_gbp",
                 "imbalance_exposure_gbp",
                 "total_settlement_style_cost_gbp",
                 "pricing_method",

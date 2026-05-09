@@ -14,7 +14,7 @@ EV Flex Trading Ops Simulator should behave like a daily trading-support workflo
 8. Reconcile scheduled versus actual metered consumption.
 9. Calculate simplified settlement-style exposure and P&L-style summaries.
 10. Export Excel reporting and dashboard-ready reporting data.
-11. Present the daily workflow in a local Streamlit dashboard.
+11. Present the daily workflow in a public React dashboard, with Streamlit retained as a fallback data-review app.
 
 The system should be modular enough to be credible to technical reviewers while staying lightweight enough to run locally with public or synthetic data.
 
@@ -168,7 +168,7 @@ Outputs should include:
 - smart charging savings
 - net daily cost/P&L versus baseline
 
-Settlement-style exposure uses a simplified imbalance-price spread derived from market prices. It is not official settlement or real trading P&L.
+Settlement-style exposure uses scheduled position cost plus actual-vs-scheduled deviation volume priced at a simplified synthetic imbalance price. It is not official settlement or real trading P&L.
 
 ### 10. Reporting
 
@@ -176,7 +176,7 @@ Reporting is a core product layer.
 
 `excel_report.py` generates a professional workbook suitable for commercial analytics review. It uses `xlsxwriter` because the workbook is created from scratch and benefits from styled tables, formatting, charts, and worksheet-level layout control.
 
-The dashboard layer reads generated CSV and Excel outputs without duplicating business logic. It prepares KPI, chart, scenario, and table inputs for the local Streamlit app.
+The dashboard layer reads generated CSV and Excel outputs without duplicating business logic. It exports a static JSON payload for the public React app and also supports the local Streamlit fallback.
 
 `app/streamlit_app.py` consumes prepared outputs and stays focused on operational review: metrics, schedules, curves, exceptions, readiness, reconciliation, and links to the Excel workbook. Missing files are surfaced as user-facing warnings with regeneration guidance.
 
@@ -223,7 +223,7 @@ fleet requirements + market prices
              Excel daily trading report
                    |
                    v
-             Streamlit dashboard
+             React dashboard + Streamlit fallback
         |
         v
 position builder + actuals reconciliation

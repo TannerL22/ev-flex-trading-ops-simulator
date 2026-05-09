@@ -44,7 +44,9 @@ def test_settlement_cost_calculation_for_positive_deviation() -> None:
 
     assert settlement.loc[0, "scheduled_cost_gbp"] == 10
     assert settlement.loc[0, "imbalance_price_gbp_per_mwh"] == 125
-    assert settlement.loc[0, "imbalance_exposure_gbp"] == 0.5
+    assert settlement.loc[0, "imbalance_spread_cost_gbp"] == 0.5
+    assert settlement.loc[0, "imbalance_exposure_gbp"] == 2.5
+    assert settlement.loc[0, "total_settlement_style_cost_gbp"] == 12.5
     assert exceptions.empty
 
 
@@ -54,7 +56,9 @@ def test_settlement_cost_calculation_for_negative_deviation() -> None:
     )
 
     assert settlement.loc[0, "imbalance_price_gbp_per_mwh"] == 85
-    assert settlement.loc[0, "imbalance_exposure_gbp"] == 0.3
+    assert settlement.loc[0, "imbalance_spread_cost_gbp"] == 0.3
+    assert settlement.loc[0, "imbalance_exposure_gbp"] == -1.7
+    assert settlement.loc[0, "total_settlement_style_cost_gbp"] == 8.3
 
 
 def test_negative_market_price_handled() -> None:

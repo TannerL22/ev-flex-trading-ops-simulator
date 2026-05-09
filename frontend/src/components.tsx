@@ -92,11 +92,13 @@ export function Sidebar({
 export function TopBar({
   scenario,
   onScenarioChange,
-  reportDate
+  reportDate,
+  onHelpClick
 }: {
   scenario: string;
   onScenarioChange: (scenario: "base_actuals" | "high_deviation") => void;
   reportDate: string;
+  onHelpClick: () => void;
 }) {
   return (
     <header className="topbar">
@@ -122,7 +124,12 @@ export function TopBar({
           <strong>{reportDate}</strong>
         </div>
         <div className="data-badge">Synthetic / sample data</div>
-        <button className="icon-button" type="button" title="Methodology and limitations">
+        <button
+          className="icon-button"
+          type="button"
+          title="Methodology and limitations"
+          onClick={onHelpClick}
+        >
           <CircleHelp size={19} />
         </button>
       </div>
