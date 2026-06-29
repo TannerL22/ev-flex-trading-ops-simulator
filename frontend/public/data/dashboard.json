@@ -501,7 +501,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -515,7 +515,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -529,7 +529,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -543,7 +543,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -557,7 +557,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -571,7 +571,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -585,7 +585,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -599,7 +599,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -613,7 +613,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -627,7 +627,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -641,7 +641,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -655,7 +655,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -669,7 +669,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -683,7 +683,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -697,7 +697,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -711,7 +711,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -725,7 +725,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -739,7 +739,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -753,7 +753,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -767,7 +767,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -781,7 +781,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -795,7 +795,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -809,7 +809,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -823,7 +823,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -837,7 +837,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -851,7 +851,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -865,7 +865,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -879,7 +879,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -893,7 +893,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -907,7 +907,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -921,7 +921,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -935,7 +935,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -949,7 +949,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -963,7 +963,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -977,7 +977,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -991,7 +991,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1005,7 +1005,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1019,7 +1019,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1033,7 +1033,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1047,7 +1047,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1061,7 +1061,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1075,7 +1075,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1089,7 +1089,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1103,7 +1103,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1117,7 +1117,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1131,7 +1131,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1145,7 +1145,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     },
@@ -1159,7 +1159,7 @@
       "price_type": "synthetic",
       "currency": "GBP",
       "unit": "MWh",
-      "ingestion_timestamp": "2026-06-22T12:41:58.355818+00:00",
+      "ingestion_timestamp": "2026-06-29T11:52:24.359840+00:00",
       "data_quality_flag": "ok",
       "notes": "synthetic scenario: base"
     }
@@ -9663,7 +9663,7 @@
   "exceptions": [
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.322871+00:00",
+      "timestamp": "2026-06-29 11:52:29.705546+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-001",
@@ -9672,7 +9672,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.351779+00:00",
+      "timestamp": "2026-06-29 11:52:29.737092+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-002",
@@ -9681,7 +9681,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.374283+00:00",
+      "timestamp": "2026-06-29 11:52:29.761333+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-003",
@@ -9690,7 +9690,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.405491+00:00",
+      "timestamp": "2026-06-29 11:52:29.795811+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-004",
@@ -9699,7 +9699,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.432502+00:00",
+      "timestamp": "2026-06-29 11:52:29.825083+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-005",
@@ -9708,7 +9708,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.456531+00:00",
+      "timestamp": "2026-06-29 11:52:29.851545+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-006",
@@ -9717,7 +9717,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.474325+00:00",
+      "timestamp": "2026-06-29 11:52:29.871016+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-007",
@@ -9726,7 +9726,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.500449+00:00",
+      "timestamp": "2026-06-29 11:52:29.899071+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-008",
@@ -9735,7 +9735,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.518975+00:00",
+      "timestamp": "2026-06-29 11:52:29.919073+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-009",
@@ -9744,7 +9744,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.539384+00:00",
+      "timestamp": "2026-06-29 11:52:29.941431+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-010",
@@ -9753,7 +9753,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.562566+00:00",
+      "timestamp": "2026-06-29 11:52:29.966884+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-011",
@@ -9762,7 +9762,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.588124+00:00",
+      "timestamp": "2026-06-29 11:52:29.994542+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-012",
@@ -9771,7 +9771,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.607543+00:00",
+      "timestamp": "2026-06-29 11:52:30.015946+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-013",
@@ -9780,7 +9780,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.631872+00:00",
+      "timestamp": "2026-06-29 11:52:30.042877+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-014",
@@ -9789,7 +9789,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.649802+00:00",
+      "timestamp": "2026-06-29 11:52:30.062701+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-015",
@@ -9798,7 +9798,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.668137+00:00",
+      "timestamp": "2026-06-29 11:52:30.082613+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-016",
@@ -9807,7 +9807,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.684083+00:00",
+      "timestamp": "2026-06-29 11:52:30.100359+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-017",
@@ -9816,7 +9816,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.702410+00:00",
+      "timestamp": "2026-06-29 11:52:30.120341+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-018",
@@ -9825,7 +9825,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.726149+00:00",
+      "timestamp": "2026-06-29 11:52:30.146529+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-019",
@@ -9834,7 +9834,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.750778+00:00",
+      "timestamp": "2026-06-29 11:52:30.173179+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-020",
@@ -9843,7 +9843,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.768321+00:00",
+      "timestamp": "2026-06-29 11:52:30.191902+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-021",
@@ -9852,7 +9852,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.781241+00:00",
+      "timestamp": "2026-06-29 11:52:30.206128+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-022",
@@ -9861,7 +9861,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.794354+00:00",
+      "timestamp": "2026-06-29 11:52:30.239357+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-023",
@@ -9870,7 +9870,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.832181+00:00",
+      "timestamp": "2026-06-29 11:52:30.258806+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-024",
@@ -9879,7 +9879,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.882516+00:00",
+      "timestamp": "2026-06-29 11:52:30.313987+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-001",
@@ -9888,7 +9888,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.909020+00:00",
+      "timestamp": "2026-06-29 11:52:30.343156+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-002",
@@ -9897,7 +9897,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.930947+00:00",
+      "timestamp": "2026-06-29 11:52:30.366874+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-003",
@@ -9906,7 +9906,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.962232+00:00",
+      "timestamp": "2026-06-29 11:52:30.400924+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-004",
@@ -9915,7 +9915,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:03.988978+00:00",
+      "timestamp": "2026-06-29 11:52:30.430060+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-005",
@@ -9924,7 +9924,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.013315+00:00",
+      "timestamp": "2026-06-29 11:52:30.456784+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-006",
@@ -9933,7 +9933,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.031706+00:00",
+      "timestamp": "2026-06-29 11:52:30.476272+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-007",
@@ -9942,7 +9942,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.057444+00:00",
+      "timestamp": "2026-06-29 11:52:30.504291+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-008",
@@ -9951,7 +9951,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.075629+00:00",
+      "timestamp": "2026-06-29 11:52:30.524189+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-009",
@@ -9960,7 +9960,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.096390+00:00",
+      "timestamp": "2026-06-29 11:52:30.546693+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-010",
@@ -9969,7 +9969,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.119730+00:00",
+      "timestamp": "2026-06-29 11:52:30.572102+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-011",
@@ -9978,7 +9978,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.145816+00:00",
+      "timestamp": "2026-06-29 11:52:30.599992+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-012",
@@ -9987,7 +9987,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.168150+00:00",
+      "timestamp": "2026-06-29 11:52:30.621208+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-013",
@@ -9996,7 +9996,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.193987+00:00",
+      "timestamp": "2026-06-29 11:52:30.648911+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-014",
@@ -10005,7 +10005,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.216348+00:00",
+      "timestamp": "2026-06-29 11:52:30.668487+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-015",
@@ -10014,7 +10014,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.237983+00:00",
+      "timestamp": "2026-06-29 11:52:30.688599+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-016",
@@ -10023,7 +10023,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.254402+00:00",
+      "timestamp": "2026-06-29 11:52:30.705944+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-017",
@@ -10032,7 +10032,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.272857+00:00",
+      "timestamp": "2026-06-29 11:52:30.725860+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-018",
@@ -10041,7 +10041,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.296926+00:00",
+      "timestamp": "2026-06-29 11:52:30.752107+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-019",
@@ -10050,7 +10050,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.321479+00:00",
+      "timestamp": "2026-06-29 11:52:30.778766+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-020",
@@ -10059,7 +10059,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.338967+00:00",
+      "timestamp": "2026-06-29 11:52:30.797429+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-021",
@@ -10068,7 +10068,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.352441+00:00",
+      "timestamp": "2026-06-29 11:52:30.811850+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-022",
@@ -10077,7 +10077,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.365792+00:00",
+      "timestamp": "2026-06-29 11:52:30.826261+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-023",
@@ -10086,7 +10086,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.383441+00:00",
+      "timestamp": "2026-06-29 11:52:30.847465+00:00",
       "severity": "low",
       "category": "fleet_data",
       "entity_id": "DEPOT_A-EV-024",
@@ -10095,7 +10095,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP42",
@@ -10104,7 +10104,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP1",
@@ -10113,7 +10113,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP2",
@@ -10122,7 +10122,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP3",
@@ -10131,7 +10131,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP5",
@@ -10140,7 +10140,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP6",
@@ -10149,7 +10149,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP7",
@@ -10158,7 +10158,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP8",
@@ -10167,7 +10167,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "medium",
       "category": "meter_data",
       "entity_id": "SP9",
@@ -10176,7 +10176,7 @@
     },
     {
       "run_id": "phase5_trading_reconciliation_sample",
-      "timestamp": "2026-06-22 12:42:04.506779+00:00",
+      "timestamp": "2026-06-29 11:52:30.984122+00:00",
       "severity": "high",
       "category": "meter_data",
       "entity_id": "SP13",
