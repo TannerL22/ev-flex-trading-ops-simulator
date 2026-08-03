@@ -16,4 +16,4 @@ exceptions,data/outputs/phase5_reconciliation_exceptions_sample.csv,58
 baseline_summary,data/outputs/phase3_baseline_summary_sample.csv,1
 optimization_summary_site_cap,data/outputs/phase4_optimization_summary_site_cap_sample.csv,1
 workbook,data/outputs/ev_flex_daily_trading_report_sample.xlsx,
-generated_at_utc,2026-07-27T10:31:33.492858+00:00,
+generated_at_utc,2026-08-03T10:31:51.814405+00:00,
